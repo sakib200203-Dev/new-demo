@@ -1,2 +1,2 @@
 # new-demo
-this is my final
+this is my final lesson
